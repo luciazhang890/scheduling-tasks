@@ -66,5 +66,5 @@ docker run -p 8080:8080 scheduling-tasks:0.0.1-SNAPSHOT
 
 ## 🧑‍💻 Author
 
-Created by [Your Name].  
+Created by Lucy.  
 Feel free to fork, contribute, or use this as a reference for scheduling and containerization.
