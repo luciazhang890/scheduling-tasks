@@ -15,23 +15,6 @@ It also supports containerization using **Cloud Native Buildpacks**, enabling ea
 
 ---
 
-## 📁 Project Structure
-
-```
-.
-├── src/
-│   └── main/
-│       ├── java/com/example/demo/
-│       │   └── ScheduledTasks.java
-│       └── resources/
-│           └── application.properties
-├── build.gradle
-├── .gitignore
-└── README.md
-```
-
----
-
 ## 🧪 How to Run
 
 ### 🔹 Run locally (without Docker)
